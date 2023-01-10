@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ConsoleApp1": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\Desktop\\ProjectA E:\\ProjectA 5 .\\sync.log",
+      "remoteDebugEnabled": false
+    }
+  }
+}

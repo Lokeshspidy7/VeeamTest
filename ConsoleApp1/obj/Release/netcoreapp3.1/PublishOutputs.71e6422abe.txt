@@ -1,0 +1,5 @@
+D:\Desktop\Veeam\ConsoleApp1.exe
+D:\Desktop\Veeam\ConsoleApp1.dll
+D:\Desktop\Veeam\ConsoleApp1.deps.json
+D:\Desktop\Veeam\ConsoleApp1.runtimeconfig.json
+D:\Desktop\Veeam\ConsoleApp1.pdb
